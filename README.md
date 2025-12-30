@@ -18,7 +18,7 @@ See [Development](DEV.md) for more information on how to develop the server.
 
 ### Demo:
 
-https://dragonfable.hiper.esp.br/
+https://dragonfablemodded.my.id/
 
 -----
 
@@ -36,6 +36,21 @@ Thank you to our awesome contributors:
         <img src="https://github.com/TheFlash3113.png" alt="TheFlash3113" width="80" style="border-radius:50%;" />
         <br />
         <sub><b>@TheFlash3113</b></sub>
+      </a>
+    </td>
+	<td align="center">
+      <a href="https://github.com/hiperesp">
+        <img src="https://github.com/hiperesp.png" alt="hiperesp" width="80" style="border-radius:50%;" />
+        <br />
+        <sub><b>@hiperesp</b></sub>
+      </a>
+    </td>
+	</td>
+	<td align="center">
+      <a href="https://github.com/shandymodders">
+        <img src="https://github.com/shandymodders.png" alt="shandymodders" width="80" style="border-radius:50%;" />
+        <br />
+        <sub><b>@shandymodders</b></sub>
       </a>
     </td>
     <td align="center">
@@ -57,11 +72,7 @@ Artix Entertainment (Creators of DragonFable and Intellectual Property holders)
 
 Thank you to everyone who has starred the project! Your support is greatly appreciated.
 
-[![Stargazers repo roster for @hiperesp/DragonFable-Private-Server](https://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?theme=dark&user=hiperesp&repo=DragonFable-Private-Server)](https://github.com/hiperesp/DragonFable-Private-Server/stargazers)
-
-🎉 **Goal achieved!** We've reached 16 stars! A huge thank you to everyone who supported the project! 🚀
-
-Now, we're aiming for the next milestone — **128 stars**, which will unlock a badge on GitHub! If you enjoy the project, consider giving it a star to help us reach this new goal. Every star counts and is a great encouragement to keep working on the project! ✨
+[![Stargazers repo roster for @hiperesp/DragonFable-Private-Server](https://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?theme=dark&user=AlwinEgnerd&repo=DragonFable-Private-Server)](https://github.com/AlwinEgnerd/DragonFable-Private-Server/stargazers)
 
 ## Contributing:
 
