@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="Gr3nq2L1tkq-twIEKEJoZz63Ih2PGDCO0lUmK44b4Jk" />
+
 # DragonFable Private Server [WIP]
 
 A private server for DragonFable, allowing custom game and server file locations.
