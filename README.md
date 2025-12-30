@@ -8,6 +8,8 @@ This project allows you to run a private server for DragonFable with customizabl
 
 ## Setup and Upgrading:
 
+clone this repo : https://github.com/AlwinEgnerd/DragonFable-Private-Server
+
 See [SETUP](SETUP.md) for more information on how to setup the server.
 
 See [UPGRADE](UPGRADE.md) for more information on how to upgrade the server to a new version with new data and features.
