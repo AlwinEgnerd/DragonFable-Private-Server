@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="Gr3nq2L1tkq-twIEKEJoZz63Ih2PGDCO0lUmK44b4Jk" />
+<meta name="google-site-verification" content="FuqBzsrF9P_H1VU1aBFpdwbRp3ol-4WqA09EJHqWiWQ" />
 
 # DragonFable Private Server [WIP]
 
