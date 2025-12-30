@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/blob/main/LICENSE</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/activity</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/issues</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/pulls</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/security</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/blob/main/.gitattributes</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/blob/main/.gitignore</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/blob/main/CONFIG.md</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/blob/main/DEV.md</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/blob/main/Dockerfile</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/blob/main/Dockerfile-dev</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/blob/main/README.md</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/blob/main/SETUP.md</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/blob/main/UPGRADE.md</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/blob/main/Video%20tutorial%20install%20(Windows).txt</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/blob/main/docker-compose-dev.yml</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/blob/main/docker-compose.yml</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/releases</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/search?q=repo%3AAlwinEgnerd%2FDragonFable-Private-Server++language%3APHP</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/search?q=repo%3AAlwinEgnerd%2FDragonFable-Private-Server++language%3AHTML</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/search?q=repo%3AAlwinEgnerd%2FDragonFable-Private-Server++language%3AJavaScript</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/search?q=repo%3AAlwinEgnerd%2FDragonFable-Private-Server++language%3ACSS</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/search?q=repo%3AAlwinEgnerd%2FDragonFable-Private-Server++language%3ADockerfile</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/labels</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/milestones</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions/caches</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions/runs/20594203891</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions/runs/20594158579</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions/runs/20593993447</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions/runs/20593964376</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions/runs/20593874950</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/milestones?state=closed</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/commit/6c858b8a48c765c19ec0f065c92678068f9b6815</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions/runs/20594203891/usage</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions/runs/20594203891/job/59145321459</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions/runs/20594203891/job/59145368765</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions/runs/20594203891/job/59145368779</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/commit/d4c2abdb99d5fc0d013b83e17cd7d7abcac66af1</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions/runs/20594158579/usage</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions/runs/20594158579/job/59145183005</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions/runs/20594158579/job/59145229969</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions/runs/20594158579/job/59145229962</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/commit/cef5cc7ffd51e3b9b2e0a98b5edcb2c7ff93dd7d</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions/runs/20593993447/usage</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions/runs/20593993447/job/59144661870</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions/runs/20593993447/job/59144699660</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions/runs/20593993447/job/59144699659</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/commit/5a0de5c1483561df0902f04ee1bed152f39b8887</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions/runs/20593964376/usage</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions/runs/20593964376/job/59144576468</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions/runs/20593964376/job/59144606479</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions/runs/20593964376/job/59144606474</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/commit/1fb84432e37554ab41a9394cc28b0126927dd8d5</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions/runs/20593874950/usage</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions/runs/20593874950/job/59144301674</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions/runs/20593874950/job/59144329659</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/actions/runs/20593874950/job/59144329642</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/commit/c034d58cb769e5d7e61c8b390de2a340ce0068f0</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/commit/4d8bda9ab8b430dac64387ea58c79af72a6be7cc</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/commit/e505af13cf14e5933d6272a15bfbfc6fe9d485c3</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/commit/2705f6ab834a25688a7d382749df8886b5f42ec0</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/AlwinEgnerd/DragonFable-Private-Server/commit/711e1e0e6ca646857474f9f89c14402ac5570303</loc>
+  <lastmod>2025-12-30T12:32:01+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+
+
+</urlset>
