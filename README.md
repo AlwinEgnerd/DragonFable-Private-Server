@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="FuqBzsrF9P_H1VU1aBFpdwbRp3ol-4WqA09EJHqWiWQ" />
-
 # DragonFable Private Server [WIP]
 
 A private server for DragonFable, allowing custom game and server file locations.
@@ -51,6 +49,7 @@ Thank you to our awesome contributors:
 	<td align="center">
       <a href="https://github.com/shandymodders">
         <img src="https://github.com/shandymodders.png" alt="shandymodders" width="80" style="border-radius:50%;" />
+		  <meta name="google-site-verification" content="FuqBzsrF9P_H1VU1aBFpdwbRp3ol-4WqA09EJHqWiWQ" />
         <br />
         <sub><b>@shandymodders</b></sub>
       </a>
