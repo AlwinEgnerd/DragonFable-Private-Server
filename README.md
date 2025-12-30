@@ -20,7 +20,7 @@ See [Settings](CONFIG.md) for more information on how to configure the server.
 
 See [Development](DEV.md) for more information on how to develop the server.
 
-### Demo:
+### Play Online:
 
 <a href="https://dragonfablemodded.my.id/"> Click To Play Dragon Fable Private Server
 
